@@ -1,0 +1,15 @@
+***libraries needed by main.py***
+os
+dotenv
+src.extract
+
+*** Libraries needed by extract.py ***
+psycopg2
+pandas
+
+***Libraries needed by load_data_s3.py ***
+boto3
+StringIO, BytesIO from io
+
+
+
